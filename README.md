@@ -1,47 +1,46 @@
-# 👋 Hi, I'm Vedat Sapan
+# Hi, I'm Vedat Sapan
 
-**AI Engineer & Founder | I build agentic systems that work in production, 24/7.**
+**AI Implementation & Adoption Specialist**
 
-📍 Lelystad, Netherlands | ✉️ vedatsapan@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vedatsapan) | 💬 Open to work
+Lelystad, Netherlands · [LinkedIn](https://www.linkedin.com/in/vedatsapan) · [Email](mailto:vedatsapan@gmail.com)
 
----
+I turn AI capabilities into practical, controlled workflows that people can use.
 
-### 🧠 What I Do
+At Blives, I built and now operate Jarvis: a local AI operator connecting memory, voice, inbox
+triage, browser work, research, messaging, system health and human approvals. I define the
+operational need, requirements, safeguards and acceptance criteria; direct specialised AI and
+coding agents; test complete workflows; document their operation; and remain accountable for
+the result.
 
-I design, build, and operate autonomous AI systems — not prototypes, but production-grade agents that run 24/7 with real-world impact.
+Before Blives, I spent 12 years in forensic data operations at the Turkish Ministry of Justice,
+where accuracy, controlled access, traceability and confidentiality were essential. I also bring
+earlier B2B sales, account-relationship, web and visual-design experience.
 
-- **Agentic orchestration** — LangGraph, CrewAI, multi-agent workflows with human-in-the-loop
-- **Voice AI** — Retell AI, Twilio SIP, Gemini Live, real-time audio pipelines
-- **MCP toolchains** — 34+ custom MCP tools for email, WhatsApp, Telegram, phone calls, CRM
-- **Consent-gated outbound** — legal-first architecture with audit trails and approval flows
-- **Full-stack delivery** — FastAPI, PostgreSQL, TypeScript, React, Docker, Cloudflare
+## What I focus on
 
-### 🚀 Featured Projects
+- AI implementation and user adoption
+- Workflow discovery, requirements and process mapping
+- Human-in-the-loop operations and approval controls
+- User acceptance testing, documentation and runbooks
+- Data quality and incident investigation
+- Customer onboarding, customer success and B2B relationships
 
-| Project | What It Is | Stack |
-|---|---|---|
-| **[Jarvis AI Operator](https://github.com/vedatsapan/v-engine-4.0)** | Tri-brain AI assistant with voice calling, multi-channel messaging, and 34+ MCP tools | LangGraph · FastAPI · PostgreSQL · Gemini · Retell AI |
-| **[Agentic B2B Pipeline](https://github.com/vedatsapan/v-engine)** | Multi-agent outreach & CRM with consent gates and WhatsApp/Telegram/Email | LangGraph · Twilio · Python · PostgreSQL |
-| **[Agentic OS](https://github.com/vedatsapan/agentic-os)** | AI-native OS interface with voice-first UX and unified MCP | TypeScript · React · AI agent frameworks |
-| **[B2B Pipeline Blueprint](https://github.com/vedatsapan/v-engine-showcase)** | Architecture reference for stateful LangGraph + Gemini Live + Twilio pipelines | LangGraph · Gemini · MIT |
+## Selected public work
 
-### 🛠️ Tech Stack
+- [Partner Onboarding Agent](https://github.com/vedatsapan/partner-onboarding-agent) — a small,
+  synthetic-data proof of concept for stateful onboarding, validation, audit trails and human
+  review.
+- [V-Engine Showcase](https://github.com/vedatsapan/v-engine-showcase) — a reference proof of
+  concept exploring approval-gated B2B workflow orchestration. It is not presented as a live,
+  autonomous customer-acquisition service.
 
-`Python` `TypeScript` `LangGraph` `LangChain` `CrewAI` `AutoGen` `FastAPI` `Node.js` `PostgreSQL` `SQLite` `Redis` `Docker` `MCP` `Gemini API` `Claude API` `Retell AI` `Twilio` `n8n` `Make.com` `GitHub Actions` `Cloudflare` `React` `Next.js`
+## Working approach
 
-### 🏢 Founder @ Blives
+I do not position myself as a conventional software engineer. My strength is orchestration:
+translating an operational goal into bounded work, choosing and coordinating suitable AI tools,
+testing the result end to end, and keeping a human accountable for important decisions.
 
-Building an AI-native business operating system — prompt-driven CMS, multi-agent integration, Voice AI agents, and automated workflows that replace entire SaaS stacks.
+Turkish: native · English: B2 · Dutch: actively learning
 
-### 📊 Background
-
-- **12 years** at Ministry of Justice — forensic database design, zero-error audit systems
-- **Blives (2022–present)** — founded AI automation company (KvK 92736482)
-- B.Sc. Chemistry, Dicle University
-- Based in Lelystad, open to hybrid/remote roles across the Netherlands
-
----
-
-> *"One of me ships what used to take a team of ten. I run a fleet of agents."*
-
-📫 **Let's build something together** — [LinkedIn](https://www.linkedin.com/in/vedatsapan) | [Email](mailto:vedatsapan@gmail.com)
+I am open to AI implementation and adoption, workflow automation, customer enablement, data
+operations and Turkish-language account or customer roles across the Netherlands.
