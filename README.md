@@ -1,46 +1,60 @@
-# Hi, I'm Vedat Sapan
+# Vedat Sapan
 
-**AI Implementation & Adoption Specialist**
+### Founder at [Werkborg](https://werkborg.nl) · AI implementation · Workflow automation · E-commerce operations
 
-Lelystad, Netherlands · [LinkedIn](https://www.linkedin.com/in/vedatsapan) · [Email](mailto:vedatsapan@gmail.com)
+Based in Lelystad, Netherlands. I turn recurring operational work into controlled, testable workflows that people can understand and operate.
 
-I turn AI capabilities into practical, controlled workflows that people can use.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedatsapan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vedatsapan)
+[![Werkborg](https://img.shields.io/badge/Werkborg-Live-1E6B52?style=flat-square)](https://werkborg.nl)
+[![Location](https://img.shields.io/badge/Location-Lelystad%2C_NL-374151?style=flat-square)](#)
 
-At Blives, I built and now operate Jarvis: a local AI operator connecting memory, voice, inbox
-triage, browser work, research, messaging, system health and human approvals. I define the
-operational need, requirements, safeguards and acceptance criteria; direct specialised AI and
-coding agents; test complete workflows; document their operation; and remain accountable for
-the result.
+## What I do
 
-Before Blives, I spent 12 years in forensic data operations at the Turkish Ministry of Justice,
-where accuracy, controlled access, traceability and confidentiality were essential. I also bring
-earlier B2B sales, account-relationship, web and visual-design experience.
+- **AI implementation:** process discovery, requirements, acceptance criteria, workflow testing and adoption.
+- **Human-in-the-loop operations:** approval gates, audit trails, consent boundaries and recoverable paths.
+- **E-commerce operations:** ongoing Shopify and Amazon store/marketplace administration, products, content, orders and customer communication.
+- **Commercial operations:** sales leadership, B2B relationships, negotiation and customer-facing delivery.
+- **High-stakes data operations:** 12 years of forensic evidence and data work where traceability, controlled access and confidentiality were essential.
 
-## What I focus on
+I am not positioning myself as a conventional frontend, backend or Java engineer. I define the operational problem, direct specialised AI and coding agents, validate the complete result, document how it works and remain accountable for safeguards and outcomes.
 
-- AI implementation and user adoption
-- Workflow discovery, requirements and process mapping
-- Human-in-the-loop operations and approval controls
-- User acceptance testing, documentation and runbooks
-- Data quality and incident investigation
-- Customer onboarding, customer success and B2B relationships
+## Featured systems
 
-## Selected public work
+| Project | What it demonstrates | Status |
+|---|---|---|
+| **[Gatehouse AI](https://github.com/vedatsapan/gatehouse-ai)** | Policy-first state machine with explicit human approval and hash-linked audit events | Public reference |
+| **[Commerce Pulse](https://github.com/vedatsapan/commerce-pulse)** | Exception-first Shopify and marketplace operations cockpit using synthetic data | [Live demo](https://vedatsapan.github.io/commerce-pulse/) |
+| **[Workflow Canvas](https://github.com/vedatsapan/workflow-canvas)** | Local-only tool for mapping bounded automation, ownership and human review points | [Live demo](https://vedatsapan.github.io/workflow-canvas/) |
+| **[Evidence Ledger](https://github.com/vedatsapan/evidence-ledger)** | Tamper-evident, hash-linked audit records with integrity tests | Public reference |
+| **[Partner Onboarding Agent](https://github.com/vedatsapan/partner-onboarding-agent)** | Stateful synthetic-data onboarding, validation and human review | Public PoC |
+| **[V-Engine Showcase](https://github.com/vedatsapan/v-engine-showcase)** | Approval-gated B2B workflow architecture and operating boundaries | Public architecture note |
 
-- [Partner Onboarding Agent](https://github.com/vedatsapan/partner-onboarding-agent) — a small,
-  synthetic-data proof of concept for stateful onboarding, validation, audit trails and human
-  review.
-- [V-Engine Showcase](https://github.com/vedatsapan/v-engine-showcase) — a reference proof of
-  concept exploring approval-gated B2B workflow orchestration. It is not presented as a live,
-  autonomous customer-acquisition service.
+## How I work
 
-## Working approach
+```text
+Operational friction
+        ↓
+Requirements + boundaries
+        ↓
+Bounded agent tasks
+        ↓
+Acceptance tests + human approval
+        ↓
+Documented, recoverable workflow
+```
 
-I do not position myself as a conventional software engineer. My strength is orchestration:
-translating an operational goal into bounded work, choosing and coordinating suitable AI tools,
-testing the result end to end, and keeping a human accountable for important decisions.
+Public repositories are deliberately sanitised. They use synthetic data and self-contained reference implementations. Client names, internal workflows, screenshots, credentials, private code and business results are not published without explicit permission.
+
+## Current focus
+
+Building [Werkborg](https://werkborg.nl): human-controlled AI agents for recurring e-mail, customer service, administration, sales, reporting and telephone workflows in Dutch businesses.
+
+Running and improving e-commerce operations across Shopify and Amazon while developing practical AI operating models through Jarvis, a private local operator. Jarvis source code and confidential B2B implementations remain private; public repositories demonstrate selected principles without exposing private systems.
+
+## Languages and availability
 
 Turkish: native · English: B2 · Dutch: actively learning
 
-I am open to AI implementation and adoption, workflow automation, customer enablement, data
-operations and Turkish-language account or customer roles across the Netherlands.
+Open to AI implementation, workflow automation, e-commerce operations, customer operations, sales operations and data-operations opportunities in the Netherlands.
+
+> Portfolio projects were created with AI-assisted development under my requirements, direction, validation and responsibility.
